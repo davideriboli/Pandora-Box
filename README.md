@@ -10,8 +10,8 @@ Il percorso formativo, inserito nel Progetto Mida, è stato riservato al corpo d
 Questo *repository* ospita il *vault* Obsidian creato a supporto dei corsi di formazione sull'applicazione delle **Intelligenze Artificiali Generative alla didattica della grafica e della composizione multimediale**.
 
 - Curatore dei moduli: **prof. Davide Riboli**, Accademia di Belle Arti “M. Sironi”, Sassari
-- Tutor Grafica: **prof.ssa Luciana Forlani**, Liceo Artistico “F. Sironi”, Pesaro
-- Tutor Video: **prof.ssa Silvia Vimini**, Liceo Artistico “F. Sironi”, Pesaro
+- Tutor Grafica: **prof.ssa Luciana Forlani**, Liceo Artistico “F. Mengaroni”, Pesaro
+- Tutor Video: **prof.ssa Silvia Vimini**, Liceo Artistico “F. Mengaroni”, Pesaro
 
 > [!NOTE] AVVISO AI NAVIGANTI
 > Una versione in forma di sito web, con tutti i contenuti del *repository* è presente all’indirizzo: https://publish.obsidian.md/progetto-mida e sarà mantenuta *online* per tutta la durata degli incontri.
