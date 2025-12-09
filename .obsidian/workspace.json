@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "01-Grafica/02-Incontri/01/Incontro 01.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Incontro 01"
             }
           }
         ]
@@ -175,10 +175,17 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "README.md",
+    "01-Grafica/02-Incontri/01/Pomodoro2/Pomodoro2.md",
+    "01-Grafica/02-Incontri/01/Incontro 01.md",
+    "03-Biblio/IndiceLetture.md",
+    "03-Biblio/ePub/Fei Fei Ling - Tutti i mondi che vedo.epub",
+    "03-Biblio/ePub/HenryKissinger-EraDellIntelligenzaArtificiale.epub",
+    "03-Biblio/ePub",
     "99-SalaMacchine/Varia/01.jpg",
-    "99-SalaMacchine/Varia/01.jpg.crdownload",
     "99-SalaMacchine/Varia/01.png",
+    "99-SalaMacchine/Varia/DR-CV.pdf",
+    "README.md",
+    "99-SalaMacchine/Varia/01.jpg.crdownload",
     "Sito/99-SalaMacchine/Varia/DR-CV.pdf",
     "Sito/03-Biblio/PromptCollection/The-Generative-Art-Prompt-Bible/medias/with_proper_noun_images.jpeg",
     "Sito/03-Biblio/PromptCollection/The-Generative-Art-Prompt-Bible/medias/seedream_3_bb.jpeg",
@@ -191,12 +198,7 @@
     "Sito/03-Biblio/PDF/Linee guida per produzioni di video e immagini basate su IA.pdf",
     "Sito/03-Biblio/PDF/Google-Whitepaper-Prompt-Engineering-(2024).pdf",
     "Sito/03-Biblio/PDF/Google-Gemini-Prompting-Guide-101-(2024).pdf",
-    "Sito/03-Biblio/PDF/Gemini_Prompt_Guide_for_Creatives_and_Strategists.pdf",
     "Sito/02-Multimedia/02-Incontri/02/AsWeRecall/params-lyrics.png",
-    "Sito/02-Multimedia/02-Incontri/02/AsWeRecall/As we recall 03.mp3",
-    "Sito/02-Multimedia/02-Incontri/02/AsWeRecall/As we recall 02.mp3",
-    "Sito/02-Multimedia/02-Incontri/02/AsWeRecall/As we recall 01.mp3",
-    "01-Grafica/02-Incontri/01/Incontro 01.md",
     "01-Grafica/01-Info/00-Info.md",
     "01-Grafica/01-Info/01-ProgrammaGenerale.md",
     "02-Multimedia/02-Incontri/01/Incontro 01.md",
@@ -206,10 +208,8 @@
     "01-Grafica/02-Incontri/04/Incontro 04.md",
     "01-Grafica/02-Incontri/03/Incontro 03.md",
     "01-Grafica/02-Incontri/02/Incontro 02.md",
-    "01-Grafica/02-Incontri/01/Pomodoro2/Pomodoro2.md",
     "02-Multimedia/02-Incontri/02/AsWeRecall/As We Recall.md",
     "02-Multimedia/02-Incontri/01/Pomodoro2/Pomodoro2.md",
-    "03-Biblio/IndiceLetture.md",
     "03-Biblio/CatalogoPrompt.md",
     "02-Multimedia/02-Incontri/05/Incontro 05.md",
     "02-Multimedia/02-Incontri/04/Incontro 04.md",

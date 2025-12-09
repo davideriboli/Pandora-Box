@@ -23,6 +23,11 @@ date: "dom. 23/11/2025"
 
 *Elenco in costante aggiornamento per tutta la durata degli incontri.*
 
+#### Primo approccio all’IA
+
+- [Fei Fei Li - Tutti i mondi che vedo](Fei%20Fei%20Ling%20-%20Tutti%20i%20mondi%20che%20vedo.epub)
+- [Henry Kissinger Eric Schmidt Daniel Huttenlocher - L’era dell’Intelligenza Artificiale](HenryKissinger-EraDellIntelligenzaArtificiale.epub)
+
 #### Google NotebookLM
 
 - [DR.net - Introduzione a Google Gemini NotebookLM](https://www.davideriboli.net/p/introduzione-a-google-notebooklm)

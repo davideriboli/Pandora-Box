@@ -17,6 +17,12 @@ date: "mar. 09/12/2025"
 
 * **00:00 – 00:15 | Benvenuto e Filosofia del Corso**
     * Presentazione docente, tutor, classe, obiettivi (IA come co-pilota, non esecutore) e dei tre assiomi etici (Human-in-the-Loop, Simulazione Agenzia, Territorialità). Dall’*italian brainrot* a Tony Stark.
+
+> [!ATTENZIONE CONTENUTO NSFW/OFFENSIVO]
+>  In merito a *italian brainrot*: 
+> * https://it.wikipedia.org/wiki/Italian_brainrot
+> * https://italianbrainrotcharacters.com/
+
 * **00:15 – 00:30 | Check-in Tecnico Rapido**
     * Verifica flash dell'hardware e degli accessi (Gemini Advanced, Canva Pro).
 * **00:30 – 00:50 | Buffer & Allineamento Piattaforma (Slot di Riserva)**
