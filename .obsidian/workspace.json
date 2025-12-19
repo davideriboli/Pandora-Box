@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "43b8fe6fcd381362",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "389ede8726200f27",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -173,8 +173,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "389ede8726200f27",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "99-SalaMacchine/Varia/01.jpg",
+    "README.md",
     "01-Biblio/IndiceLetture.md",
     "01-Biblio/Prompt/SelfImprovement/Prompt/Pareto-Learning.md",
     "01-Biblio/Prompt/SelfImprovement/01-Indice_Self.md",
@@ -208,8 +210,6 @@
     "01-Biblio/Prompt/AltriPromptPerImmagini/Varia/Scultura-Fantastica.md",
     "01-Biblio/Prompt/AltriPromptPerImmagini/Varia/Scultura-Dettagliata.md",
     "01-Biblio/Prompt/AltriPromptPerImmagini/Varia/Scala-di-GiobbeStyleIMG.jpg",
-    "01-Biblio/Prompt/AltriPromptPerImmagini/Varia/Scala-di-Giobbe.md",
-    "01-Biblio/Prompt/AltriPromptPerImmagini/Varia/Noir.md",
     "01-Biblio/Prompt/AltriPromptPerImmagini/Varia/JSON-Prompt-StyleIMG.jpg",
     "01-Biblio/Prompt/AltriPromptPerImmagini/Varia/Fusione-Botanica-StyleIMG.jpg",
     "01-Biblio/Prompt/AltriPromptPerImmagini/Varia/Brand-It-StyleIMG.jpg",

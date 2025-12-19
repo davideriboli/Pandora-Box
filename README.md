@@ -18,7 +18,7 @@ Visto che il materiale raccolto può essere d’aiuto anche per le classi dei do
 Il repository contiene dispense, appunti e risorse organizzati secondo la logica dei collegamenti bidirezionali di [Obsidian](https://obsidian.md). Dopo averlo scaricato ed espanso, dovrete consultarlo con Obsidian, un software gratuito e disponibile per qualsiasi sistema operativo, dedicato alla costruzione di basi di conoscenza e *digital garden*. Seguite questa procedura:
 
 1.  **Scaricare il repository:**
-    * ANdate su https://github.com/davideriboli/Pandora (se state leggendo questa pagina da internet, ci siete già).
+    * Andate su https://github.com/davideriboli/Pandora (se state leggendo questa pagina da internet, ci siete già).
     * Cliccate sul pulsante verde in alto a dx e poi **Download ZIP**..
     * Estraete la cartella sul vostro computer.
 2.  **Aprirlo con Obsidian:**
