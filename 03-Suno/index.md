@@ -94,9 +94,4 @@ Dark experimental trip-hop, Bristol sound, deep dub bassline, slow syncopated br
 
 ---
 
-- Esercizio: provare a ottenere prompt adatti all'uso in Suno, attraverso Google Gemini.
-
----
-
-*Ultima modifica: ven. 19/12/2025*
 

@@ -110,6 +110,3 @@ date: "dom. 23/11/2025"
 ```
 
 ---
-
-*Ultima modifica: lun. 24/11/2025*
-

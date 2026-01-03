@@ -19,15 +19,13 @@ date: "dom. 23/11/2025"
 
 ## Calendario incontri
 
-1. 09 dicembre 2025 | [Incontro 01](02-Didattica/02-Incontri/01/Incontro%2001.md)
-2. 11 dicembre 2025 | [Incontro 02](02-Didattica/02-Incontri/02/Incontro%2002.md)
-3. 15 dicembre 2025 | [Incontro 03](02-Didattica/02-Incontri/03/Incontro%2003.md)
-4. 18 dicembre 2025 | [Incontro 04](02-Didattica/02-Incontri/04/Incontro%2004.md)
-5. 19 dicembre 2025 | [Incontro 05](02-Didattica/02-Incontri/05/Incontro%2005.md)
+1. 09 dicembre 2025 
+2. 11 dicembre 2025
+3. 15 dicembre 2025 
+4. 18 dicembre 2025 
+5. 19 dicembre 2025 
 
 > [!Orario per tutti gli incontri]
 > **14:30/18:30**
 
 ---
-
-*Ultima modifica: ven. 19/12/2025*

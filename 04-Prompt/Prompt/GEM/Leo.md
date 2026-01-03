@@ -74,6 +74,3 @@ Crea un blocco di codice separato contenente un prompt ottimizzato per generator
 ```
 
 ---
-
-*Ultima modifica: dom. 23/11/2025*
-

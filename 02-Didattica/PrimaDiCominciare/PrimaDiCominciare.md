@@ -16,7 +16,7 @@ Questa dispensa contiene una serie di immagini di accompagnamento ai principali 
 
 ### 1. Il Motore Sotto il Cofano
 
-![](02-Didattica/PrimaDiCominciare/01.png)
+![](02-Didattica/PrimaDiCominciare/img/01.png)
 
 **Concetto**
 Benvenuti nella "sala macchine". Prima di iniziare a progettare, è fondamentale comprendere che non stiamo semplicemente imparando un nuovo software, ma stiamo adottando un nuovo paradigma mentale. L'obiettivo di questo percorso non è l'utilizzo strumentale di un tool, ma l'evoluzione del progettista grafico in un "co-pilota creativo". Non è una lezione di informatica, ma di alfabetizzazione agli strumenti contemporanei che definiranno il vostro futuro professionale.
@@ -28,7 +28,7 @@ Benvenuti nella "sala macchine". Prima di iniziare a progettare, è fondamentale
 
 ### 2. Il Grande Salto: Deterministico vs. Probabilistico
 
-![](02-Didattica/PrimaDiCominciare/02.png)
+![](02.png)
 
 **Concetto**
 Fino a ieri, il nostro lavoro si basava su software **deterministici** (Word, Photoshop, InDesign). Se premi il tasto "A", appare una "A". La logica è lineare: Input preciso = Output preciso.
@@ -41,7 +41,7 @@ Oggi, con i LLM (Large Language Models), entriamo nell'era del software **probab
 
 ### 3. Come "ragionano" i LLM: Next Token Prediction
 
-![](02-Didattica/PrimaDiCominciare/03.png)
+![](03.png)
 
 **Concetto**
 È vitale capire che modelli come Google Gemini non "sanno" le cose nel modo in cui le sa un'enciclopedia o un database. Loro non cercano la risposta, la **costruiscono**.
@@ -56,7 +56,7 @@ Questo spiega perché l'IA può essere incredibilmente creativa ma anche soggett
 
 ### 4. Il Nuovo Workflow: Human-in-the-Loop
 
-![](02-Didattica/PrimaDiCominciare/04.png)
+![](04.png)
 
 **Concetto**
 L'IA non lavora da sola. Il metodo didattico e professionale che adottiamo si fonda sull'assioma **Human-in-the-Loop**. È un ciclo continuo diviso in tre fasi:
@@ -72,7 +72,7 @@ Senza la guida critica umana, la tecnologia è cieca. L'IA è intesa come potenz
 
 ### 5. Da Esecutore a Regista: La Gestione Direttiva
 
-![](02-Didattica/PrimaDiCominciare/05.png)
+![](05.png)
 
 **Concetto**
 L'integrazione dell'IA sposta il baricentro delle competenze richieste. La mera esecuzione tecnica (scontornare un'immagine, impaginare un blocco di testo) diventa sempre più automatizzata.
@@ -85,7 +85,7 @@ Il valore aggiunto del designer si sposta sulla **Gestione Direttiva del Progett
 
 ### 6. L'Ecosistema: Gemini & NotebookLM
 
-![](02-Didattica/PrimaDiCominciare/06.png)
+![](06.png)
 
 **Concetto**
 Utilizzeremo un ecosistema integrato basato su Google Workspace, distinguendo chiaramente i ruoli degli strumenti:
@@ -99,7 +99,7 @@ Utilizzeremo un ecosistema integrato basato su Google Workspace, distinguendo ch
 
 ### 7. Metodologia: Simulazione di Agenzia
 
-![](02-Didattica/PrimaDiCominciare/07.png)
+![](07.png)
 
 **Concetto**
 Abbandoniamo la logica del "compito in classe" per abbracciare quella della **Simulazione di Agenzia**. Lavorerete in team, replicando il flusso di uno studio di comunicazione reale.
@@ -112,7 +112,7 @@ Affronterete brief concreti basati sul principio di **Territorialità**: comunic
 
 ### 8. Le Regole d'Oro: Verifica e Responsabilità
 
-![](02-Didattica/PrimaDiCominciare/08.png)
+![](08.png)
 
 **Concetto**
 L'uso dell'IA richiede disciplina.
@@ -127,7 +127,7 @@ L'uso dell'IA richiede disciplina.
 
 ### 9. Q&A e Prossimi Step
 
-![](02-Didattica/PrimaDiCominciare/09.png)
+![](09.png)
 
 **Concetto**
 Concludiamo la fase teorica. Abbiamo definito il perimetro d'azione, gli strumenti e la filosofia di lavoro. È il momento di trasformare i dubbi in domande e la teoria in pratica.

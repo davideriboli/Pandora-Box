@@ -100,6 +100,3 @@ Alla fine di OGNI generazione creativa, aggiungi una linea divisoria e questo bl
 ```
 
 ---
-
-*Ultima modifica: lun. 24/11/2025*
-
