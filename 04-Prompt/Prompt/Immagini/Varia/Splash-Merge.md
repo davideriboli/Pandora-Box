@@ -1,7 +1,7 @@
 ---
 title: Splash Merge
 description: "Usando l'immagine allegata al post, crea una versione splash color di un determinato logo."
-tags: [prompt, chatgpt4o]
+tags: [prompt, chatgpt]
 date: "2025-05-12"
 ---
 

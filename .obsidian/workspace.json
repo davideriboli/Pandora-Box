@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6a9c8e4764b52e19",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#chatgpt4ofile:suno",
+                "query": "tag:#chatgpt4o",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -161,12 +161,22 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
+            }
+          },
+          {
+            "id": "0a4f1b0d8f21959a",
+            "type": "leaf",
+            "state": {
+              "type": "NodeFlowView",
+              "state": {},
+              "icon": "workflow",
+              "title": "NodeFlowView"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -180,18 +190,23 @@
       "command-palette:Apri riquadro comandi": false,
       "publish:Pubblica modifiche": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "homepage:Open homepage": false,
-      "webpage-html-export:Esporta come HTML": false,
-      "bases:Create new base": false
+      "homepage:Open homepage": false
     }
   },
-  "active": "6a9c8e4764b52e19",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "05-OnOurOwn/00-index.md",
+    "README.md",
+    "05-OnOurOwn/ComfyWorkflow/00-index.md",
+    "05-OnOurOwn/ComfyWorkflow/Test.json",
+    "05-OnOurOwn/01-ComfyOnLinux.md",
+    "05-OnOurOwn/ComfyWorkflow",
+    "04-Prompt/index.md",
+    "05-OnOurOwn",
     "99-SalaMacchine/Varia/DR-CV.pdf",
     "99-SalaMacchine/Varia/01.png",
     "99-SalaMacchine/Varia/01.jpg",
     "99-SalaMacchine/Modelli/Post Base.md",
-    "04-Prompt/Indice-Prompt.md",
     "04-Prompt/Prompt/GEM/Ask20.md",
     "04-Prompt/Prompt/GEM/Brya.md",
     "04-Prompt/Prompt/GEM/Orson.md",
@@ -211,23 +226,15 @@
     "02-Didattica/Info_Modulo-Multimedia.md",
     "02-Didattica/02-Incontri/01",
     "02-Didattica/02-Incontri",
-    "README.md",
-    "01-Biblio/Biblioteca.md",
+    "01-Biblio/index.md",
     "03-Suno/index.md",
     "04-Prompt/Prompt/SelfImprovement/Prompt/Life-Optimization-Strategy.md",
     "04-Prompt/Prompt/SelfImprovement/Prompt/Blocco-Evolutivo.md",
     "04-Prompt/Prompt/SelfImprovement/Prompt/Apprendere-Lingue.md",
-    "04-Prompt/Prompt/SelfImprovement/Prompt/Ottimizzare-Linkedin.md",
-    "04-Prompt/Prompt/Immagini/Varia/Vintage-Monocromatico.md",
-    "04-Prompt/Prompt/Immagini/Varia/Vetro-Satinato.md",
     "sito/site-lib/scripts/webpage.js",
     "sito/site-lib/media/favicon.png",
     "sito/site-lib/media/6155340132a851f6089e.svg",
     "sito/site-lib/media/2308ab1944a6bfa5c5b8.svg",
-    "sito/site-lib/styles/theme.css",
-    "sito/site-lib/styles/supported-plugins.css",
-    "sito/site-lib/styles/other-plugins.css",
-    "sito/site-lib/styles/obsidian.css",
     "sito/99-salamacchine/varia/01.jpg",
     "sito/03-suno/params-lyrics.png",
     "sito/02-didattica/primadicominciare/09.png",

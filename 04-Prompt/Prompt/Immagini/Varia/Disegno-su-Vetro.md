@@ -1,7 +1,7 @@
 ---
 title: Disegno su vetro
 description: Crea un disegno su un vetro appannato o bagnato di pioggia.
-tags: [prompt, chatgpt4o]
+tags: [prompt, chatgpt]
 date: "2025-05-11"
 ---
 

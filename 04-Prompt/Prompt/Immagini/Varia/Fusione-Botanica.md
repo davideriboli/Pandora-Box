@@ -1,7 +1,7 @@
 ---
 title: Fusione Botanica
 description: "Restituisce il soggetto come se fosse una pianta."
-tags: [prompt, chatgpt4o, midjourney7]
+tags: [prompt, chatgpt, midjourney]
 date: "2025-05-12"
 ---
 

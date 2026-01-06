@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FabJediOrder",
       "LiFileCode2",
       "LiMusic",
       "🎵",
-      "LiBook",
-      "LiBookMarked"
+      "LiBook"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -39,5 +39,6 @@
   "02-Didattica": "LiPenTool",
   "01-Biblio": "LiBook",
   "03-Suno": "LiMusic",
-  "04-Prompt": "LiFileCode2"
+  "04-Prompt": "LiFileCode2",
+  "05-OnOurOwn": "FabJediOrder"
 }

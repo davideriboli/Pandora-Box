@@ -1,7 +1,7 @@
 ---
 title: Brand 2040
 description: "Crea una immagine da un brand noto per un futuro immaginario"
-tags: [prompt, chatgpt4o]
+tags: [prompt, chatgpt]
 date: "2025-05-20"
 ---
 

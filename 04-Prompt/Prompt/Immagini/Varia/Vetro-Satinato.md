@@ -1,7 +1,7 @@
 ---
 title: Vetro Satinato
 description: "Genera una silhouette del soggetto richiesto, dietro un vetro satinato"
-tags: [prompt, chatgpt4o]
+tags: [prompt, chatgpt]
 date: "2025-05-12"
 ---
 

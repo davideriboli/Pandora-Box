@@ -1,7 +1,7 @@
 ---
 title: Mela Intagliata
 description: Crea un intaglio in una mela.
-tags: [prompt, chatgpt4o]
+tags: [prompt, chatgpt]
 date: "2025-05-11"
 ---
 

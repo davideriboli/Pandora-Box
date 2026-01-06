@@ -1,7 +1,7 @@
 ---
 title: Vintage Monocromatico
 description: "Crea immagini simili a vecchie fotografie"
-tags: [prompt, chatgpt4o]
+tags: [prompt, chatgpt]
 date: "2025-05-20"
 ---
 

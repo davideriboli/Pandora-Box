@@ -1,7 +1,7 @@
 ---
 title: Scultura Ultra Dettagliata
 description: Crea l'immagine ultra dettagliata del soggetto richiesto in forma scultorea.
-tags: [prompt, chatgpt4o]
+tags: [prompt, chatgpt]
 date: "2025-05-11"
 ---
 

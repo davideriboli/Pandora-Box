@@ -1,7 +1,7 @@
 ---
 title: Brand It
 description: "Crea un'immagine adatta ad un brand noto"
-tags: [prompt, chatgpt4o]
+tags: [prompt, chatgpt]
 date: "2025-05-20"
 ---
 

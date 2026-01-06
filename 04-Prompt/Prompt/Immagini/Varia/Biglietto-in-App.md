@@ -1,7 +1,7 @@
 ---
 title: Biglietto da visita in app
 description: "Crea una immagine ravvicinata di un biglietto da visita nello stile di un dato software."
-tags: [prompt, chatgpt4o]
+tags: [prompt, chatgpt]
 date: "2025-05-11"
 ---
 

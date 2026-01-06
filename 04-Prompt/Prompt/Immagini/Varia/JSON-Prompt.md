@@ -1,7 +1,7 @@
 ---
 title: JSON Prompt
 description: "Schemi base per la gestione di prompt ChatGPT 4o via JSON."
-tags: [prompt, chatgpt4o]
+tags: [prompt, chatgpt]
 date: "2025-05-12"
 ---
 

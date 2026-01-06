@@ -1,7 +1,7 @@
 ---
 title: Scala di Giobbe
 description: "Crea un profilo vagamente surreale che contiene un individuo che sale una scala."
-tags: [prompt, chatgpt4o]
+tags: [prompt, chatgpt]
 date: "2025-05-12"
 ---
 

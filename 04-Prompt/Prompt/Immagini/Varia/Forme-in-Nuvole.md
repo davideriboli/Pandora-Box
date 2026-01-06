@@ -1,7 +1,7 @@
 ---
 title: Forme in Nuvole
 description: "Dispone nuvole in cielo, secondo una data forma."
-tags: [prompt, chatgpt4o]
+tags: [prompt, chatgpt]
 date: "2025-05-11"
 ---
 

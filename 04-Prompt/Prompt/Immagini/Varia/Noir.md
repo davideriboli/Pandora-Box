@@ -3,7 +3,7 @@ title: Noir
 description: Crea immagini in stile film noir.
 tags:
   - prompt
-  - midjourney7
+  - midjourney
 date: 2025-05-12
 ---
 

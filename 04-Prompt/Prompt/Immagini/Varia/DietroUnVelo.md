@@ -1,7 +1,7 @@
 ---
 title: Dietro un velo
 description: "Fa emergere il soggetto da un velo strappato"
-tags: [prompt, chatgpt4o]
+tags: [prompt, chatgpt]
 date: "2025-05-20"
 ---
 

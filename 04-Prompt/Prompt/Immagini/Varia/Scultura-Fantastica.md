@@ -1,7 +1,7 @@
 ---
 title: Scultura fantastica
 description: "Crea una scultura a pannello"
-tags: [prompt, chatgpt4o]
+tags: [prompt, chatgpt]
 date: "2025-05-20"
 ---
 

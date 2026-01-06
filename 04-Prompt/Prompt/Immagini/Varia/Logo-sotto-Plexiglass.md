@@ -1,7 +1,7 @@
 ---
 title: Forme in Nuvole
 description: "Crea un logo noto in 3D e lo dispone sotto una teca trasparente."
-tags: [prompt, chatgpt4o]
+tags: [prompt, chatgpt]
 date: "2025-05-11"
 ---
 
