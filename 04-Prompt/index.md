@@ -11,7 +11,8 @@ Durante gli incontri abbiamo creato diversi prompt di inizializzazione per evoca
 
 ## Claude AI
 
-- [Claude Prompt Base](Claude%20Prompt%20Base.md)
+- [Claude Prompt Base Testo](Claude%20Prompt%20Base%20Testo.md)
+- [Claude Prompt Base XML](Claude%20Prompt%20Base%20XML.md)
 
 ## Google Gemini Gem
 

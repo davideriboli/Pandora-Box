@@ -1,14 +1,14 @@
 ---
-title: Claude Prompt Base
-description: Struttura base dei prompt in Claude.
+title: Claude Prompt Base XML
+description: Struttura base dei prompt in XML per Claude.
 tags:
   - prompt
   - claude
   - xml
-date: "mer. 21/01/2026"
+date: mer. 21/01/2026
 ---
 
-## Claude Prompt Base
+## Claude Prompt Base in XML
 
 Regole ed esempi base per la costruzione di prompt per Claude AI, in XML.
 
@@ -670,6 +670,37 @@ Prima di rispondere alla domanda principale, genera un breve sommario del docume
 Output format: {{OUTPUT_FORMAT}}
 </task>
 ```
+
+---
+
+## 📊 Confronto: XML vs Testuale
+
+| Aspetto | XML | Testuale |
+|---------|-----|----------|
+| **Precisione parsing** | ⭐⭐⭐⭐⭐ Massima | ⭐⭐⭐⭐ Ottima se ben strutturato |
+| **Leggibilità umana** | ⭐⭐⭐ Media | ⭐⭐⭐⭐⭐ Eccellente |
+| **Velocità scrittura** | ⭐⭐⭐ Richiede sintassi | ⭐⭐⭐⭐⭐ Molto rapida |
+| **Manutenibilità** | ⭐⭐⭐⭐⭐ Eccellente | ⭐⭐⭐⭐ Buona |
+| **Compatibilità futura** | ⭐⭐⭐⭐⭐ Massima | ⭐⭐⭐⭐ Molto buona |
+
+---
+
+## ✅ Raccomandazione Finale
+
+**USA XML quando**:
+- Hai prompt complessi con molte sezioni
+- Vuoi massima affidabilità nel parsing
+- Lavori in team o condividi prompt
+- Usi prompt caching o automazioni
+
+**USA TESTUALE quando**:
+- Hai prompt semplici o usa-e-getta
+- Prioritizzi velocità di scrittura
+- Lavori principalmente da solo
+- Vuoi massima leggibilità immediata
+
+**COMPROMESSO IDEALE**:
+Usa struttura testuale con separatori chiari + markdown, come negli esempi sopra. Ottieni il 90% dell'efficacia dell'XML con il 100% della leggibilità!
 
 ---
 
