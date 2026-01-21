@@ -26,9 +26,12 @@ Manuali in PDF o letture disponibili attraverso altri siti. Il minimo indispensa
 
 ## Altre letture
 
-#### Primo approccio all’IA
+#### Claude Prompt Engineering
 
-Gli unici due testi che mi sembrano fondamentali per capire davvero il mondo che verrà e come è cominciata.
+- [Claude AI Comprehensive Guide to Prompt Engineering Techniques](https://claude.ai/public/artifacts/d3981927-4a8c-4e95-bc61-12c64cc10132)
+- [Claude Prompt Engineering Guide](https://github.com/ThamJiaHe/claude-prompt-engineering-guide)
+
+#### Primo approccio all’IA
 
 - [Fei Fei Li - Tutti i mondi che vedo](https://www.amazon.it/Curiosit%C3%A0-scoperta-meraviglia-dellintelligenza-artificiale/dp/B0CTD9N2WN/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1G1Y0FRW1VLER&dib=eyJ2IjoiMSJ9.N50ybpUrhDtrDceJVCIqaCLYt79TakVRyF0mfgimMChBThYdDdYld_rBeMe_S-_XbhYRiBQmlvCVrlNa1Yf0eoXXbBi6mV58p3fcaSiWdPRPK7QcSW7JwtgLpWgqzRdmPoSOpvXMPvTolxN4a3G_3rKluxTS9Qz2z24jf6mNLREbRPMe32VPIW8tSS5VC-aEJp7plu6mAue1x_RXfOBY9_bpMM7NVCSoRedmWa0GhhpeH9Wx3L0sJuXj_ee2lHgw-AuHYiY5p5YUOse2_wA539mggUVL0Txh6QjsWaXX6ME.Tt0fgyXBs5krwcIO4_d3mxKUSFlP9xV93WqC0y23eds&dib_tag=se&keywords=fei+fei+li&qid=1767433020&sprefix=fei+fei+li%2Caps%2C327&sr=8-1&ufe=app_do%3Aamzn1.fos.8a1562af-dabe-4f1d-8eb5-1ded1ace4ef7)
 - [Henry Kissinger Eric Schmidt Daniel Huttenlocher - L’era dell’Intelligenza Artificiale](https://www.amazon.it/dp/8804752955/?bestFormat=true&k=l%20era%20dell%20intelligenza%20artificiale%20di%20kissinger&ref_=nb_sb_ss_w_scx-ent-bk-ww_k0_1_14_de&crid=17P2SV2FNUSXX&sprefix=kissinger%20era%20)
