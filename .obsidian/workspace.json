@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05-OnOurOwn/02-AlternativeImmaginiVideo.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "02-AlternativeImmaginiVideo"
+              "title": "README"
             }
           }
         ]
@@ -195,8 +195,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "05-OnOurOwn/00-index.md",
+    "04-Prompt/index.md",
+    "04-Prompt/Prompt/ClaudeAI/Claude Prompt Base.md",
+    "04-Prompt/Prompt/ClaudeAI",
     "05-OnOurOwn/02-AlternativeImmaginiVideo.md",
+    "05-OnOurOwn/00-index.md",
     "README.md",
     "05-OnOurOwn/ComfyWorkflow/00-index.md",
     "05-OnOurOwn/01-ComfyOnLinux.md",
@@ -207,7 +210,6 @@
     "04-Prompt/Prompt/Immagini/Varia/Anatomie-Digitali.md",
     "04-Prompt/Prompt/Immagini/Varia/Noir.md",
     "04-Prompt/Prompt/Immagini/Varia/DietroUnVelo.md",
-    "04-Prompt/index.md",
     "04-Prompt/Prompt/GEM/Ask20.md",
     "04-Prompt/Prompt/GEM/Brya.md",
     "03-Suno/index.md",
@@ -227,12 +229,10 @@
     "04-Prompt/Prompt/GEM/Anna.md",
     "04-Prompt/Prompt/Immagini/Varia/Brand-2040.md",
     "02-Didattica/PrimaDiCominciare/img",
-    "02-Didattica/02-Incontri/01/Incontro 01.md",
     "04-Prompt/Prompt/GEM",
     "04-Prompt",
     "02-Didattica/02-Incontri/01",
     "02-Didattica/02-Incontri",
-    "sito/site-lib/scripts/webpage.js",
     "sito/site-lib/media/favicon.png",
     "sito/site-lib/media/6155340132a851f6089e.svg",
     "sito/site-lib/media/2308ab1944a6bfa5c5b8.svg",
